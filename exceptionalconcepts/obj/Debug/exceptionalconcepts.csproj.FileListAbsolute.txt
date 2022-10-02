@@ -1,0 +1,8 @@
+C:\hk personal\exceptionalconcepts\bin\Debug\exceptionalconcepts.exe.config
+C:\hk personal\exceptionalconcepts\bin\Debug\exceptionalconcepts.exe
+C:\hk personal\exceptionalconcepts\bin\Debug\exceptionalconcepts.pdb
+C:\hk personal\exceptionalconcepts\obj\Debug\exceptionalconcepts.csproj.AssemblyReference.cache
+C:\hk personal\exceptionalconcepts\obj\Debug\exceptionalconcepts.csproj.SuggestedBindingRedirects.cache
+C:\hk personal\exceptionalconcepts\obj\Debug\exceptionalconcepts.csproj.CoreCompileInputs.cache
+C:\hk personal\exceptionalconcepts\obj\Debug\exceptionalconcepts.exe
+C:\hk personal\exceptionalconcepts\obj\Debug\exceptionalconcepts.pdb
